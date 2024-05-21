@@ -37,9 +37,14 @@ For both signals (EMG and Brain), each cell array in varibale SIG represents an 
 
 <div style="text-align: center;">
 
-$ EMG_{SIG}  = \sum_{i=1}^{13} \sum_{j=1}^{5} SIG(i,j)$
+```math
+EMG_{SIG}  = \sum_{i=1}^{13} \sum_{j=1}^{5} SIG(i,j)
 
-$ Brain_{SIG}  = \sum_{i=1}^{23} \sum_{j=1}^{3} SIG(i,j)$
+```
+
+```math
+ Brain_{SIG}  = \sum_{i=1}^{23} \sum_{j=1}^{3} SIG(i,j)
+```
 
 </div>
 
