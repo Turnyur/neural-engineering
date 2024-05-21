@@ -53,3 +53,59 @@ EMG_{SIG}  = \sum_{i=1}^{13} \sum_{j=1}^{5} SIG(i,j)
 <img src="./img_assets/01/EMG/sig.png" alt="Averaged Brain Signal" width="300" height="200">
 </div>
 
+## Analysis Results
+
+Below are some of the results of the analysis.
+
+________
+________
+# Brain
+
+<img src="./img_assets/02/Brain/Neuron-4.png" alt="Neuron Spike">
+
+______
+
+<img src="./img_assets/02/Brain/filtered_SIG_sta.png" alt="Neuron Spike">
+
+______
+
+<img src="./img_assets/02/Brain/Neuron-11-latest.png" alt="Neuron Spike">
+
+______
+
+<img src="./img_assets/02/Brain/sta_hist.png" alt="Neuron Spike">
+
+
+
+<img src="./img_assets/03/Brain/2024-01-27_19-24-49.png" alt="Neuron Spike">
+
+
+<img src="./img_assets/04/Brain/isi_seperate.png" alt="Neuron Spike">
+
+
+<img src="./img_assets/04/Brain/super_inposed.png" alt="Neuron Spike">
+_______
+
+_______
+
+
+## EMG 
+
+<img src="./img_assets/02/EMG/neuron-10.png" alt="MU Pulse">
+
+<img src="./img_assets/02/EMG/neuron-15.png" alt="MU Pulse">
+
+
+<img src="./img_assets/03/EMG/emg_Screenshot_from_2024-01-27_19-14-26.png" alt="MU Pulse">
+
+
+<img src="./img_assets/04/EMG/isi_separate_emg.png" alt="MU Pulse">
+
+<img src="./img_assets/04/EMG/isi_superimposed_emg.png" alt="MU Pulse">
+
+
+
+##
+
+
+Full details of the analysis and a [detailed report](#) will be uploaded later.
