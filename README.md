@@ -33,8 +33,8 @@ ___
 For both signals (EMG and Brain), each cell array in varibale SIG represents an electrode channel. Consequently, we derive an averaged signal from each channel, facilitating a quick analysis of signal characteristics.
 
 
-\[
-\begin{equation}
+
+$\begin{equation}
     \begin{aligned}
         \text{EMG}_{\text{SIG}} & = \sum_{i=1}^{13} \sum_{j=1}^{5} \text{SIG}(i,j) \\
     \end{aligned}
@@ -48,8 +48,7 @@ For both signals (EMG and Brain), each cell array in varibale SIG represents an 
         \text{Brain}_{\text{SIG}} & = \sum_{i=1}^{23} \sum_{j=1}^{3} \text{SIG}(i,j) \\
     \end{aligned}
     \label{eqn:emg_sig}
-\end{equation}
-\]
+\end{equation}$
 
 <div style="display: flex;">
 <img src="./img_assets/01/Brain/orig_SIG_.png" alt="Averaged Brain Signal" width="300" height="200"></br>
